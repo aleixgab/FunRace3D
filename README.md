@@ -11,3 +11,7 @@ What I want to improve it's the AI. The other player should be more intelligent,
 Furthermore, some jumps, toboggans, stair or something to change the focus axis to get it more interesting.
 
 Thank you for reading this.
+
+## Controls
+
+The controls of this game are the same than the real. Just press the screen to run.
